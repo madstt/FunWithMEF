@@ -1,0 +1,1 @@
+FunWithMEF is a small calculator console app showing off basic operations using MEF.
